@@ -6,13 +6,14 @@ AI recruiting assistant for talent acquisition professionals. Source candidates,
 
 | Command | Description |
 |---------|-------------|
+| `/claude-recruiting:intake` | Run a full intake — generates JD, sourcing strategy with candidates, and interview plan in one shot |
 | `/claude-recruiting:source` | Build a sourcing strategy and find real candidates via web research |
 | `/claude-recruiting:screen` | Screen a candidate against job requirements |
 | `/claude-recruiting:interview-prep` | Generate interview questions and scorecards |
 | `/claude-recruiting:debrief` | Synthesize interview feedback into a hiring recommendation |
 | `/claude-recruiting:pipeline-review` | Review pipeline health and identify bottlenecks |
 | `/claude-recruiting:write-jd` | Write or improve a job description |
-| `/claude-recruiting:outreach` | Draft personalized candidate outreach messages |
+| `/claude-recruiting:outreach` | Draft personalized outreach — single candidate or batch from /source output |
 | `/claude-recruiting:offer-prep` | Prepare and analyze a compensation offer |
 
 ## Skills (auto-activated)
@@ -37,9 +38,9 @@ These skills activate automatically when your conversation touches their domain:
 ## Getting started
 
 1. Install the plugin in Claude Cowork
-2. Try `/claude-recruiting:write-jd` with a role you're hiring for
-3. Use `/claude-recruiting:source` to build a sourcing plan and find real candidates
-4. Screen candidates with `/claude-recruiting:screen`
+2. Run `/claude-recruiting:intake` to kick off a new search — it generates your JD, sourcing strategy, candidates, and interview plan from a single conversation
+3. Use `/claude-recruiting:outreach` to draft personalized messages for sourced candidates
+4. Screen candidates with `/claude-recruiting:screen` as they respond
 5. Connect your ATS and email for the full workflow
 
 ## Legal Disclaimers
