@@ -136,3 +136,4 @@ If no input is provided, ask: "What role are you sourcing for? Share the title, 
 - The candidate finding step works best when the role is well-defined — provide a full JD for the best results
 - Candidates found via web search represent publicly available information only; always verify details before outreach
 - For deeper candidate finding with verified contact info, connect Apollo, Clay, or LinkedIn connectors
+- **For cleared roles**: Specify the clearance level (Secret, TS, TS/SCI, poly type) and the sourcing strategy will automatically target cleared talent channels (ClearanceJobs, ClearedJobs.net, defense contractor alumni, military transition programs) and use clearance-specific Boolean strings. The clearance-recruiting skill activates automatically.

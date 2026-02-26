@@ -77,4 +77,4 @@ If no feedback is provided, ask: "Share the interview feedback — paste scoreca
 
 - Best results when you have written feedback from every interviewer in the loop
 - Include the role's leveling expectations if the decision hinges on "is this a senior or staff?"
-- Flag if any interviewer has a known bias toward certain backgrounds or styles
+- Flag if any interviewer has a known tendency to over-index on specific areas

@@ -1,6 +1,6 @@
 ---
 name: candidate-evaluation
-description: "Evaluate candidates against role requirements using structured rubrics and scorecards. Provides consistent, evidence-based assessments with bias mitigation. Trigger with \"evaluate this candidate\", \"score this resume\", \"compare candidates\", \"how does this person stack up\", \"is this a fit\", or when the user shares a resume, candidate profile, or interview feedback and asks for an assessment."
+description: "Evaluate candidates against role requirements using structured rubrics and scorecards. Provides consistent, evidence-based assessments. Trigger with \"evaluate this candidate\", \"score this resume\", \"compare candidates\", \"how does this person stack up\", \"is this a fit\", or when the user shares a resume, candidate profile, or interview feedback and asks for an assessment."
 ---
 
 # Candidate Evaluation
@@ -36,16 +36,14 @@ Every candidate evaluation maps to these six dimensions. Weight and specific cri
 | 2 | No hire | Below the bar — significant gaps or insufficient evidence |
 | 1 | Strong no hire | Clear misalignment — fundamental gaps or red flags |
 
-### Bias Mitigation Checklist
+### Evaluation Quality Checklist
 
 Apply before finalizing any evaluation:
 
 - Am I evaluating evidence or making assumptions about potential?
-- Am I holding all candidates to the same criteria, regardless of background?
-- Am I conflating "culture fit" with "similar to people already here"?
-- Am I penalizing non-traditional career paths that demonstrate the same competencies?
-- Am I over-indexing on pedigree (school, company names) vs. actual accomplishments?
-- Would I rate this evidence the same if it came from a different demographic?
+- Am I holding all candidates to the same criteria?
+- Am I evaluating actual accomplishments vs. pedigree (school names, company brands)?
+- Am I scoring based on role requirements, not personal preferences?
 
 ## Comparative Evaluation
 

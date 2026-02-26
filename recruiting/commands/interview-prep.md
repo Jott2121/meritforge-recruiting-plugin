@@ -26,7 +26,7 @@ If minimal input, ask: "What role and interview stage are you prepping for? (e.g
 3. **Generate questions** — Write 4-6 primary questions with follow-up probes, calibrated to the role level
 4. **Build scoring rubric** — Define what "strong hire", "hire", "no hire", and "strong no hire" look like for each competency
 5. **Create the scorecard** — Structured template the interviewer can fill out during or after the interview
-6. **Add interviewer guidance** — Time allocation, red/green flags to watch for, and common biases to avoid
+6. **Add interviewer guidance** — Time allocation, red/green flags to watch for, and common evaluation pitfalls to avoid
 7. **If candidate resume provided** — Customize questions to probe specific claims, career transitions, or gaps
 
 ## Output Structure
@@ -72,7 +72,7 @@ If minimal input, ask: "What role and interview stage are you prepping for? (e.g
 - **Time management**: [allocation suggestions]
 - **Green flags**: [what to look for]
 - **Red flags**: [concerning signals]
-- **Bias watch**: [common biases for this interview type]
+- **Evaluation pitfalls**: [common mistakes for this interview type]
 
 ### Closing (5 min)
 - Allow candidate questions

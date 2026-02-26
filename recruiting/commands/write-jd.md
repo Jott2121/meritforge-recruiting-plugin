@@ -5,7 +5,7 @@ argument-hint: "<role title or existing JD to improve>"
 
 # Write Job Description
 
-Write a compelling, inclusive job description from scratch or improve an existing one. Optimizes for candidate conversion, search discoverability, and legal compliance.
+Write a compelling job description from scratch or improve an existing one. Optimizes for candidate conversion, search discoverability, and legal compliance.
 
 ## Input
 
@@ -23,10 +23,10 @@ If minimal input, ask: "What's the role? Share the title, level, and 2-3 sentenc
 ## Workflow
 
 1. **Define the role** — Extract or clarify title, level, team, reporting structure, and core purpose from `$ARGUMENTS`
-2. **Structure the JD** — Organize into standard sections following inclusive writing best practices
+2. **Structure the JD** — Organize into standard sections following professional writing best practices
 3. **Write compelling copy** — Lead with impact and growth, not just requirements. Use active voice, avoid jargon
 4. **Optimize requirements** — Separate must-haves from nice-to-haves. Flag requirements that may unnecessarily narrow the pool (years of experience, specific degrees, unnecessary certifications)
-5. **Inclusivity review** — Scan for gendered language, exclusionary phrasing, and unnecessary barriers. Apply research-backed inclusive language guidelines
+5. **Legal compliance review** — Ensure the JD complies with employment law (no age-discriminatory language, proper EEO disclaimers, salary transparency where required)
 6. **SEO optimization** — Ensure the title and key terms match how candidates actually search
 7. **If knowledge base connected** — Pull company voice guidelines, benefits info, and team descriptions
 
@@ -63,7 +63,7 @@ If minimal input, ask: "What's the role? Share the title, level, and 2-3 sentenc
 [Brief company description focused on mission and culture]
 
 ---
-**Inclusivity notes**: [Any flags about language, requirements, or barriers that were adjusted]
+**Compliance notes**: [Any legal or language flags that were adjusted]
 **SEO notes**: [Title and keyword optimization suggestions]
 ```
 

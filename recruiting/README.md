@@ -25,8 +25,8 @@ These skills activate automatically when your conversation touches their domain:
 - **Market intelligence** — Talent market conditions, comp benchmarks, competitor intel
 - **Pipeline analytics** — Funnel metrics, conversion rates, time-to-fill analysis
 - **Sourcing strategy** — Boolean strings, channel mix, and passive candidate engagement
-- **Diversity recruiting** — Inclusive hiring practices, bias mitigation, diverse sourcing
 - **Employer branding** — EVP messaging, job marketing, and candidate experience
+- **Clearance recruiting** — Source and evaluate candidates by security clearance level
 
 ## Standalone vs Connected
 
