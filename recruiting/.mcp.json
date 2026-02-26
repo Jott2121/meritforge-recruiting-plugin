@@ -1,0 +1,52 @@
+{
+  "mcpServers": {
+    "slack": {
+      "type": "http",
+      "url": "https://mcp.composio.dev/slack/mcp"
+    },
+    "google-calendar": {
+      "type": "http",
+      "url": "https://mcp.composio.dev/google-calendar/mcp"
+    },
+    "gmail": {
+      "type": "http",
+      "url": "https://mcp.composio.dev/gmail/mcp"
+    },
+    "ms365": {
+      "type": "http",
+      "url": "https://mcp.composio.dev/ms365/mcp"
+    },
+    "notion": {
+      "type": "http",
+      "url": "https://mcp.composio.dev/notion/mcp"
+    },
+    "atlassian": {
+      "type": "http",
+      "url": "https://mcp.composio.dev/atlassian/mcp"
+    },
+    "greenhouse": {
+      "type": "http",
+      "url": "https://mcp.composio.dev/greenhouse/mcp"
+    },
+    "lever": {
+      "type": "http",
+      "url": "https://mcp.composio.dev/lever/mcp"
+    },
+    "apollo": {
+      "type": "http",
+      "url": "https://mcp.composio.dev/apollo/mcp"
+    },
+    "linkedin": {
+      "type": "http",
+      "url": "https://mcp.composio.dev/linkedin/mcp"
+    },
+    "clay": {
+      "type": "http",
+      "url": "https://mcp.composio.dev/clay/mcp"
+    },
+    "zoom": {
+      "type": "http",
+      "url": "https://mcp.composio.dev/zoom/mcp"
+    }
+  }
+}
