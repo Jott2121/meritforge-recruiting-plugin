@@ -1,4 +1,4 @@
-# Recruiting
+# Claude-Recruiting
 
 AI recruiting assistant for talent acquisition professionals. Source candidates, screen resumes, design interviews, run debriefs, and manage your hiring pipeline — all from a conversational interface.
 
@@ -6,14 +6,14 @@ AI recruiting assistant for talent acquisition professionals. Source candidates,
 
 | Command | Description |
 |---------|-------------|
-| `/recruiting:source` | Build a targeted sourcing strategy for a role |
-| `/recruiting:screen` | Screen a candidate against job requirements |
-| `/recruiting:interview-prep` | Generate interview questions and scorecards |
-| `/recruiting:debrief` | Synthesize interview feedback into a hiring recommendation |
-| `/recruiting:pipeline-review` | Review pipeline health and identify bottlenecks |
-| `/recruiting:write-jd` | Write or improve a job description |
-| `/recruiting:outreach` | Draft personalized candidate outreach messages |
-| `/recruiting:offer-prep` | Prepare and analyze a compensation offer |
+| `/claude-recruiting:source` | Build a sourcing strategy and find real candidates via web research |
+| `/claude-recruiting:screen` | Screen a candidate against job requirements |
+| `/claude-recruiting:interview-prep` | Generate interview questions and scorecards |
+| `/claude-recruiting:debrief` | Synthesize interview feedback into a hiring recommendation |
+| `/claude-recruiting:pipeline-review` | Review pipeline health and identify bottlenecks |
+| `/claude-recruiting:write-jd` | Write or improve a job description |
+| `/claude-recruiting:outreach` | Draft personalized candidate outreach messages |
+| `/claude-recruiting:offer-prep` | Prepare and analyze a compensation offer |
 
 ## Skills (auto-activated)
 
@@ -37,7 +37,7 @@ These skills activate automatically when your conversation touches their domain:
 ## Getting started
 
 1. Install the plugin in Claude Cowork
-2. Try `/recruiting:write-jd` with a role you're hiring for
-3. Use `/recruiting:source` to build a sourcing plan
-4. Screen candidates with `/recruiting:screen`
+2. Try `/claude-recruiting:write-jd` with a role you're hiring for
+3. Use `/claude-recruiting:source` to build a sourcing plan and find real candidates
+4. Screen candidates with `/claude-recruiting:screen`
 5. Connect your ATS and email for the full workflow

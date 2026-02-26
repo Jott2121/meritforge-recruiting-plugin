@@ -1,0 +1,14 @@
+{
+  "name": "meritforge-recruiting-plugin",
+  "description": "MeritForge recruiting plugins — AI-powered talent acquisition tools for sourcing, screening, interviewing, and hiring.",
+  "owner": {
+    "name": "MeritForge"
+  },
+  "plugins": [
+    {
+      "name": "claude-recruiting",
+      "source": "./recruiting",
+      "description": "AI recruiting assistant for talent acquisition — source, screen, interview, and hire top talent."
+    }
+  ]
+}
